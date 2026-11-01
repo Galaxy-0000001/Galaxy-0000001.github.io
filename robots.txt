@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /crm
+
+Sitemap: https://www.galaxyScript.co.uk/sitemap.xml
